@@ -53,10 +53,9 @@
 ---
 
 ## 📫 Onde me encontrar
-- 💼 [LinkedIn](#)  
-- 📷 [Instagram](#)  
-- 🎥 [TikTok](#)  
-- ✉️ **davisson@email.com**
+- 💼 [LinkedIn](https://www.linkedin.com/in/d%C3%A1visson-falc%C3%A3o-602132321/)  
+- 📷 [Instagram](https://www.instagram.com/DaviScript_)  
+- ✉️ **davissonfalcaosjr@gmail.com**
 
 ---
 
