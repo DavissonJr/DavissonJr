@@ -19,7 +19,7 @@
 - **MongoDB** – NoSQL, consultas e modelagem de documentos
 
 ### Outras habilidades
-- **APIs REST** (CRUD e além do básico)  
+- **Bom entendimento de regras de negócio**
 - **Autenticação & Autorização**  
 - **LocalStorage e manipulação de dados no cliente**  
 - **Versionamento com Git & GitHub**
@@ -29,12 +29,12 @@
 ## 📂 Projetos em destaque
 
 - **Sistema de RH** – desenvolvido em Angular + .NET  
-- **Gestão Hipotecária** – frontend em Angular  
-- **Fin Guide** – gerenciador financeiro com TypeScript e LocalStorage  
-- **Income Tracker** – controle de rendimentos  
+- **Sistema de Gestão Hipotecária** – Frontend em Angular  
+- **Fin Guide** – Gerenciador financeiro com TypeScript e LocalStorage  
+- **Income Tracker** – Controle de rendimentos em Vue.js  
 - **Cardápio Digital** – feito em Vue.js para restaurante  
 - **Gerenciador de Clientes** – em React  
-- **Sistema de Oportunidades para PCDs** – conectando empresas e profissionais  
+- **Sistema de Oportunidades para PCDs** – *Em desenvolvimento  
 
 ---
 
