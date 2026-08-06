@@ -1,62 +1,217 @@
+```md
 # 👋 Olá, eu sou o Dávisson!
 
-💻 Desenvolvedor **Fullstack** apaixonado por criar soluções úteis, escaláveis e com impacto real.  
-🎯 Atualmente, foco em projetos que unem **frontend moderno** com **backends robustos**, buscando sempre boas práticas e código limpo.
+💻 Desenvolvedor **Fullstack** apaixonado por criar aplicações modernas, escaláveis e com foco em resolver problemas reais.
+
+Atuo no desenvolvimento de sistemas utilizando **Angular, React, Vue.js, .NET 8 e SQL Server**, com experiência em construção de APIs, integrações entre sistemas, regras de negócio complexas e ambientes containerizados.
+
+🚀 Atualmente estou evoluindo meus conhecimentos em **Arquitetura de Software, DevOps, Cloud Computing e boas práticas de engenharia**, buscando construir soluções cada vez mais robustas.
 
 ---
 
-## 🚀 Tecnologias e Ferramentas
+# 🛠️ Tecnologias e Ferramentas
 
-### Frontend
-- **Angular** (Reactive Forms, diretivas, componentes, RxJS)
-- **React** (hooks, context API, componentização)
-- **Vue.js** (single file components, Vue Router)
-- **Bootstrap** e **TailwindCSS** (estilização responsiva e harmoniosa)
+## Frontend
 
-### Backend
-- **.NET 8 (C#)** – APIs REST, arquitetura limpa, DTOs
-- **SQL Server** – modelagem, consultas otimizadas, procedures
-- **MongoDB** – NoSQL, consultas e modelagem de documentos
+- **Angular**
+  - Standalone Components
+  - Reactive Forms
+  - RxJS
+  - Interceptors
+  - Guards
+  - Componentização
+  - Consumo de APIs REST
 
-### Outras habilidades
-- **Bom entendimento de regras de negócio**
-- **Autenticação & Autorização**  
-- **LocalStorage e manipulação de dados no cliente**  
-- **Versionamento com Git & GitHub**
+- **React**
+  - Hooks
+  - Context API
+  - Componentização
 
----
+- **Vue.js**
+  - Composition API
+  - Single File Components
+  - Vue Router
 
-## 📂 Projetos em destaque
-
-- **Sistema de RH** – desenvolvido em Angular + .NET  
-- **Sistema de Gestão Hipotecária** – Frontend em Angular  
-- **Fin Guide** – Gerenciador financeiro com TypeScript e LocalStorage  
-- **Income Tracker** – Controle de rendimentos em Vue.js  
-- **Cardápio Digital** – feito em Vue.js para restaurante  
-- **Gerenciador de Clientes** – em React  
-- **Sistema de Oportunidades para PCDs** – *Em desenvolvimento  
+- **UI**
+  - Bootstrap
+  - TailwindCSS
+  - Design responsivo
 
 ---
 
-## 📚 O que estou aprendendo atualmente
-- **Linux** para desenvolvimento e administração de sistemas  
-- **DevOps** – práticas de CI/CD, automação e infraestrutura como código  
-- **MongoDB** para aplicações mais escaláveis  
-- **Boas práticas de APIs além do CRUD**  
+## Backend
+
+- **C# / .NET 8**
+  - Web APIs REST
+  - Arquitetura em camadas
+  - DTOs
+  - Dependency Injection
+  - Autenticação JWT
+  - Background Services
+  - Integrações externas
+
+- **Dapper**
+  - Queries complexas
+  - Otimização de consultas
+  - Mapeamento de dados
+
+- **Entity Framework Core**
+  - Migrations
+  - Modelagem de entidades
 
 ---
 
-## 🌱 Além do código
-- Criador de conteúdos no **Instagram e TikTok** sobre programação (JavaScript, desafios de lógica, dicas de frontend).  
-- Interesse em projetos que **ajudem a sociedade**, como inclusão de PCDs no mercado de trabalho.  
+## Banco de Dados
+
+- **SQL Server**
+  - Modelagem relacional
+  - Procedures
+  - Joins complexos
+  - Consultas otimizadas
+
+- **MongoDB**
+- **SQLite**
 
 ---
 
-## 📫 Onde me encontrar
-- 💼 [LinkedIn](https://www.linkedin.com/in/d%C3%A1visson-falc%C3%A3o-602132321/)  
-- 📷 [Instagram](https://www.instagram.com/DaviScript_)  
-- ✉️ **davissonfalcaosjr@gmail.com**
+## DevOps & Infraestrutura
+
+- Docker
+- Docker Compose
+- GitLab CI/CD
+- Git
+- Linux
+- WSL
+
+Experiência com aplicações containerizadas envolvendo:
+
+- Frontend
+- APIs
+- Bancos de dados
+- Redis
+- Serviços de integração
 
 ---
 
-✨ Obrigado por visitar meu perfil! Sinta-se à vontade para explorar meus repositórios e trocar ideias comigo. 🚀
+# 🚀 Projetos Pessoais
+
+## 🤖 CRM WhatsApp com Inteligência Artificial
+
+Sistema SaaS para gerenciamento de atendimentos via WhatsApp utilizando integração com a Evolution API.
+
+### Tecnologias
+
+- Angular
+- .NET 8
+- Docker
+- Redis
+- WebSockets
+- Evolution API
+- Claude API
+
+### Principais características
+
+- Arquitetura preparada para multi-tenancy
+- Comunicação em tempo real via WebSocket
+- Integração com WhatsApp
+- Estrutura para agentes inteligentes utilizando IA
+- Ambiente totalmente containerizado com Docker
+
+Projeto criado para explorar arquiteturas modernas de aplicações SaaS, comunicação em tempo real e automações inteligentes.
+
+---
+
+## 📊 SprintLOG
+
+Sistema para gerenciamento de entregas e acompanhamento de desenvolvimento em equipes ágeis.
+
+### Tecnologias
+
+- .NET 8
+- C#
+- JWT
+- SQLite
+
+### Funcionalidades
+
+- Gerenciamento de sprints
+- Controle de entregas
+- Organização de tarefas
+- Acompanhamento de progresso
+- Estrutura preparada para novos módulos
+
+Projeto desenvolvido para aplicar conceitos de organização de times, produtividade e gestão ágil.
+
+---
+
+# 💼 Projetos Profissionais
+
+## 🏦 FCVS - Sistema para o programa de FCVS da CAIXA ECONOMICA FEDERAL 
+
+Sistema corporativo voltado ao gerenciamento de processos relacionados ao FCVS.
+
+### Atuação
+
+- Desenvolvimento frontend utilizando Angular
+- Implementação de telas e componentes reutilizáveis
+- Integração com APIs backend
+- Aplicação de regras de negócio
+- Manutenção e evolução de funcionalidades
+
+### Tecnologias
+
+- Angular
+- TypeScript
+- .NET
+- SQL Server
+
+---
+
+## 🏠 SGH - Sistema de Gestão Hipotecária
+
+Sistema corporativo para gerenciamento de operações hipotecárias.
+
+### Atuação
+
+- Desenvolvimento e manutenção de funcionalidades frontend
+- Construção de fluxos complexos de negócio
+- Integração entre frontend e backend
+- Manipulação de documentos e processos internos
+
+### Tecnologias
+
+- Angular
+- TypeScript
+- .NET
+- SQL Server
+
+---
+
+# 📚 Atualmente estudando
+
+- Arquitetura de Software
+- Design Patterns
+- DevOps
+- CI/CD
+- Cloud Computing
+- AWS
+- Kubernetes
+- Observabilidade
+- Segurança de APIs
+
+---
+
+# 📫 Onde me encontrar
+
+💼 LinkedIn  
+https://www.linkedin.com/in/d%C3%A1visson-falc%C3%A3o-602132321/
+
+✉️ Email  
+davissonfalcaosjr@gmail.com
+
+---
+
+⭐ Obrigado por visitar meu perfil!
+
+Sempre aberto para aprender, colaborar e construir soluções utilizando tecnologia. 🚀
+```
