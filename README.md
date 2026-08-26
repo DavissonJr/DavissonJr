@@ -1,217 +1,176 @@
-```md
-# 👋 Olá, eu sou o Dávisson!
+# 🚀 Dávisson Falcão
 
-💻 Desenvolvedor **Fullstack** apaixonado por criar aplicações modernas, escaláveis e com foco em resolver problemas reais.
-
-Atuo no desenvolvimento de sistemas utilizando **Angular, React, Vue.js, .NET 8 e SQL Server**, com experiência em construção de APIs, integrações entre sistemas, regras de negócio complexas e ambientes containerizados.
-
-🚀 Atualmente estou evoluindo meus conhecimentos em **Arquitetura de Software, DevOps, Cloud Computing e boas práticas de engenharia**, buscando construir soluções cada vez mais robustas.
+> **Fullstack Developer | .NET • Angular • React • Vue**
 
 ---
 
-# 🛠️ Tecnologias e Ferramentas
-
-## Frontend
-
-- **Angular**
-  - Standalone Components
-  - Reactive Forms
-  - RxJS
-  - Interceptors
-  - Guards
-  - Componentização
-  - Consumo de APIs REST
-
-- **React**
-  - Hooks
-  - Context API
-  - Componentização
-
-- **Vue.js**
-  - Composition API
-  - Single File Components
-  - Vue Router
-
-- **UI**
-  - Bootstrap
-  - TailwindCSS
-  - Design responsivo
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00D4FF&center=true&vCenter=true&width=500&lines=Fullstack+Developer;Arquiteto+de+Solu%C3%A7%C3%B5es;Apaixonado+por+Tecnologia" alt="Typing SVG" />
+</div>
 
 ---
 
-## Backend
+## 👨‍💻 Sobre Mim
 
-- **C# / .NET 8**
-  - Web APIs REST
-  - Arquitetura em camadas
-  - DTOs
-  - Dependency Injection
-  - Autenticação JWT
-  - Background Services
-  - Integrações externas
+Sou um desenvolvedor **Fullstack** com foco em criar soluções modernas, escaláveis e que realmente resolvam problemas do mundo real. Minha jornada no desenvolvimento de software é movida pela curiosidade constante e pela busca por excelência técnica.
 
-- **Dapper**
-  - Queries complexas
-  - Otimização de consultas
-  - Mapeamento de dados
-
-- **Entity Framework Core**
-  - Migrations
-  - Modelagem de entidades
+🛠️ **Atualmente** estou aprofundando meus conhecimentos em **Arquitetura de Software**, **DevOps** e **Cloud Computing**, construindo aplicações cada vez mais robustas e preparadas para os desafios do mercado.
 
 ---
 
-## Banco de Dados
+## 🧰 Stack Tecnológica
 
-- **SQL Server**
-  - Modelagem relacional
-  - Procedures
-  - Joins complexos
-  - Consultas otimizadas
+### 🎨 Frontend
 
-- **MongoDB**
-- **SQLite**
+<div align="left">
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+</div>
 
----
+### ⚙️ Backend
 
-## DevOps & Infraestrutura
+<div align="left">
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dapper-000000?style=for-the-badge&logo=dapper&logoColor=white" />
+  <img src="https://img.shields.io/badge/Entity_Framework-512BD4?style=for-the-badge&logo=entity-framework&logoColor=white" />
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white" />
+</div>
 
-- Docker
-- Docker Compose
-- GitLab CI/CD
-- Git
-- Linux
-- WSL
+### 🗄️ Banco de Dados
 
-Experiência com aplicações containerizadas envolvendo:
+<div align="left">
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
+</div>
 
-- Frontend
-- APIs
-- Bancos de dados
-- Redis
-- Serviços de integração
+### ☁️ DevOps & Infraestrutura
 
----
-
-# 🚀 Projetos Pessoais
-
-## 🤖 CRM WhatsApp com Inteligência Artificial
-
-Sistema SaaS para gerenciamento de atendimentos via WhatsApp utilizando integração com a Evolution API.
-
-### Tecnologias
-
-- Angular
-- .NET 8
-- Docker
-- Redis
-- WebSockets
-- Evolution API
-- Claude API
-
-### Principais características
-
-- Arquitetura preparada para multi-tenancy
-- Comunicação em tempo real via WebSocket
-- Integração com WhatsApp
-- Estrutura para agentes inteligentes utilizando IA
-- Ambiente totalmente containerizado com Docker
-
-Projeto criado para explorar arquiteturas modernas de aplicações SaaS, comunicação em tempo real e automações inteligentes.
+<div align="left">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitLab_CI/CD-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+</div>
 
 ---
 
-## 📊 SprintLOG
+## 📌 Projetos em Destaque
 
-Sistema para gerenciamento de entregas e acompanhamento de desenvolvimento em equipes ágeis.
+### 🤖 CRM WhatsApp com Inteligência Artificial
 
-### Tecnologias
+> Sistema SaaS para gerenciamento de atendimentos via WhatsApp com IA
 
-- .NET 8
-- C#
-- JWT
-- SQLite
+**Tecnologias:** Angular • .NET 8 • Docker • Redis • WebSockets • Evolution API • Claude API
 
-### Funcionalidades
-
-- Gerenciamento de sprints
-- Controle de entregas
-- Organização de tarefas
-- Acompanhamento de progresso
-- Estrutura preparada para novos módulos
-
-Projeto desenvolvido para aplicar conceitos de organização de times, produtividade e gestão ágil.
+**Diferenciais:**
+- 🏗️ Arquitetura multi-tenancy
+- ⚡ Comunicação em tempo real via WebSocket
+- 🤖 Agentes inteligentes com IA
+- 🐳 Ambiente totalmente containerizado
 
 ---
 
-# 💼 Projetos Profissionais
+### 📊 SprintLOG
 
-## 🏦 FCVS - Sistema para o programa de FCVS da CAIXA ECONOMICA FEDERAL 
+> Sistema para gerenciamento de entregas e acompanhamento ágil
 
-Sistema corporativo voltado ao gerenciamento de processos relacionados ao FCVS.
+**Tecnologias:** .NET 8 • C# • JWT • SQLite
 
-### Atuação
+**Funcionalidades:**
+- 📋 Gerenciamento de sprints
+- 📦 Controle de entregas
+- ✅ Organização de tarefas
+- 📈 Acompanhamento de progresso
 
-- Desenvolvimento frontend utilizando Angular
-- Implementação de telas e componentes reutilizáveis
+---
+
+## 💼 Experiência Profissional
+
+### 🏦 FCVS - CAIXA ECONOMICA FEDERAL
+
+Sistema corporativo para gerenciamento de processos do FCVS
+
+**Atuação:**
+- Desenvolvimento frontend com Angular
+- Criação de componentes reutilizáveis
 - Integração com APIs backend
-- Aplicação de regras de negócio
-- Manutenção e evolução de funcionalidades
+- Aplicação de regras de negócio complexas
 
-### Tecnologias
-
-- Angular
-- TypeScript
-- .NET
-- SQL Server
+**Stack:** Angular • TypeScript • .NET • SQL Server
 
 ---
 
-## 🏠 SGH - Sistema de Gestão Hipotecária
+### 🏠 SGH - Sistema de Gestão Hipotecária
 
-Sistema corporativo para gerenciamento de operações hipotecárias.
+Sistema corporativo para gerenciamento de operações hipotecárias
 
-### Atuação
+**Atuação:**
+- Desenvolvimento e manutenção de funcionalidades
+- Construção de fluxos complexos
+- Integração frontend/backend
+- Manipulação de documentos e processos
 
-- Desenvolvimento e manutenção de funcionalidades frontend
-- Construção de fluxos complexos de negócio
-- Integração entre frontend e backend
-- Manipulação de documentos e processos internos
-
-### Tecnologias
-
-- Angular
-- TypeScript
-- .NET
-- SQL Server
+**Stack:** Angular • TypeScript • .NET • SQL Server
 
 ---
 
-# 📚 Atualmente estudando
+## 📚 Estudando no Momento
 
-- Arquitetura de Software
-- Design Patterns
-- DevOps
-- CI/CD
-- Cloud Computing
-- AWS
-- Kubernetes
-- Observabilidade
-- Segurança de APIs
-
----
-
-# 📫 Onde me encontrar
-
-💼 LinkedIn  
-https://www.linkedin.com/in/d%C3%A1visson-falc%C3%A3o-602132321/
-
-✉️ Email  
-davissonfalcaosjr@gmail.com
+<div align="left">
+  <img src="https://img.shields.io/badge/Architecture-8A2BE2?style=for-the-badge&logo=architect&logoColor=white" />
+  <img src="https://img.shields.io/badge/Design_Patterns-FF6B6B?style=for-the-badge&logo=patterns&logoColor=white" />
+  <img src="https://img.shields.io/badge/DevOps-00A86B?style=for-the-badge&logo=devops&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cloud_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/Observability-FF9900?style=for-the-badge&logo=observability&logoColor=white" />
+</div>
 
 ---
 
-⭐ Obrigado por visitar meu perfil!
+## 📫 Vamos Conectar!
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/d%C3%A1visson-falc%C3%A3o-602132321/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:davissonfalcaosjr@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" />
+  </a>
+</div>
+
+---
+
+<div align="center">
+  
+  ### ⭐ Obrigado por visitar meu perfil!
+  
+  *Sempre aberto para aprender, colaborar e construir soluções incríveis utilizando tecnologia.* 🚀
+  
+  <img src="https://komarev.com/ghpvc/?username=davissonfalcao&color=blue" alt="Profile views" />
+  
+</div>
+
+---
+
+<details>
+<summary>📊 Estatísticas do GitHub</summary>
+<br>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=davissonfalcao&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <br><br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=davissonfalcao&theme=radical" alt="GitHub Streak" />
+</div>
+</details>
 
 Sempre aberto para aprender, colaborar e construir soluções utilizando tecnologia. 🚀
 ```
