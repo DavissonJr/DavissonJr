@@ -161,16 +161,5 @@ Sistema corporativo para gerenciamento de operações hipotecárias
 </div>
 
 ---
-
-<details>
-<summary>📊 Estatísticas do GitHub</summary>
-<br>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=davissonfalcao&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <br><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=davissonfalcao&theme=radical" alt="GitHub Streak" />
-</div>
-</details>
-
 Sempre aberto para aprender, colaborar e construir soluções utilizando tecnologia. 🚀
 ```
